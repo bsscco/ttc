@@ -9,4 +9,6 @@
 - UseCase 패턴
 - Repository 패턴
 
-## 
+## 화면 구성
+<img src="https://github.com/bsscco/ttc/blob/main/images/Screenshot_1634841686.png" width="200"/>
+<img src="https://github.com/bsscco/ttc/blob/main/images/Screenshot_1634841650.png" width="200"/>

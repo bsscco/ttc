@@ -8,7 +8,7 @@
 - 클린 아키텍쳐
 - UseCase 패턴
 - Repository 패턴
-- 모듈러 
+- 모듈러 아키텍쳐
 
 ## 화면 구성
 <img src="https://github.com/bsscco/ttc/blob/main/images/Screenshot_1634841686.png" width="200"/>
